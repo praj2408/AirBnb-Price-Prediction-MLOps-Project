@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-package_name="project"
+package_name="Airbnb"
 
 list_of_files=[
     "github/workflows/.gitkeep",
